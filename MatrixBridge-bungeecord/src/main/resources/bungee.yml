@@ -1,0 +1,4 @@
+name: MatrixBridge
+version: ${project.version}
+main: me.mrfishcakes.matrixbridge.MatrixBridgeBungeeCord
+description: BungeeCord plugin to bridge between BungeeCord and Matrix

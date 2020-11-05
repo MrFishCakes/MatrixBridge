@@ -1,0 +1,3 @@
+# When MatrixBridge encounters an unkown version it
+# disables, set this to true to prevent that from happening
+BypassUnkownVersion: false

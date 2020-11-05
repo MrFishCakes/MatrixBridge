@@ -1,0 +1,6 @@
+name: MatrixBridge
+version: ${project.version}
+main: me.mrfishcakes.matrixbridge.MatrixBridgeSpigot
+api-version: 1.16
+authors: [ MrFishCakes ]
+description: Spigot plugin to bridge between Matrix and BungeeCord
